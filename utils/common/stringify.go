@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/neelance/graphql-go/internal/lexer"
+	"github.com/ioxe/graphql-go/utils/lexer"
 )
 
 func Stringify(v interface{}) string {

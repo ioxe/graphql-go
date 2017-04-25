@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/neelance/graphql-go/internal/common"
-	"github.com/neelance/graphql-go/internal/schema"
-	"github.com/neelance/graphql-go/introspection"
+	"github.com/ioxe/graphql-go/utils/common"
+	"github.com/ioxe/graphql-go/utils/schema"
+	"github.com/ioxe/graphql-go/introspection"
 )
 
 var MetaSchema *Object

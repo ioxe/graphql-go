@@ -5,9 +5,9 @@ import (
 	"strings"
 	"text/scanner"
 
-	"github.com/neelance/graphql-go/errors"
-	"github.com/neelance/graphql-go/internal/common"
-	"github.com/neelance/graphql-go/internal/lexer"
+	"github.com/ioxe/graphql-go/errors"
+	"github.com/ioxe/graphql-go/utils/common"
+	"github.com/ioxe/graphql-go/utils/lexer"
 )
 
 type Schema struct {

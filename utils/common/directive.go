@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/neelance/graphql-go/internal/lexer"
+	"github.com/ioxe/graphql-go/utils/lexer"
 )
 
 type Directive struct {

@@ -8,10 +8,10 @@ import (
 
 	"encoding/json"
 
-	"github.com/neelance/graphql-go/errors"
-	"github.com/neelance/graphql-go/internal/query"
-	"github.com/neelance/graphql-go/internal/schema"
-	"github.com/neelance/graphql-go/internal/validation"
+	"github.com/ioxe/graphql-go/errors"
+	"github.com/ioxe/graphql-go/utils/query"
+	"github.com/ioxe/graphql-go/utils/schema"
+	"github.com/ioxe/graphql-go/utils/validation"
 )
 
 type Test struct {
